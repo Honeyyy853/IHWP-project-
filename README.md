@@ -16,12 +16,12 @@ The application is built with modern web technologies including React, TypeScrip
 
 ## Features
 
-- 🧘 **Dosha Quiz**: Interactive assessment to determine your Prakriti type
-- 🌿 **Ayurveda Education**: Comprehensive information about Ayurvedic principles
-- 🥗 **Nutrition Guidance**: Personalized dietary recommendations
-- 🧠 **Mental Wellness**: Traditional approaches to mind-body balance
-- 📱 **Responsive Design**: Works seamlessly across all devices
-- ⚡ **Modern Tech Stack**: Built with React, TypeScript, and Vite for optimal performance
+- **Dosha Quiz**: Interactive assessment to determine your Prakriti type
+- **Ayurveda Education**: Comprehensive information about Ayurvedic principles
+- **Nutrition Guidance**: Personalized dietary recommendations
+- **Mental Wellness**: Traditional approaches to mind-body balance
+- **Responsive Design**: Works seamlessly across all devices
+- **Modern Tech Stack**: Built with React, TypeScript, and Vite for optimal performance
 
 ## Installation Steps
 
@@ -34,7 +34,7 @@ The application is built with modern web technologies including React, TypeScrip
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Honeyyy853/IHWP-project-.git
    cd IHWP/project
    ```
 
